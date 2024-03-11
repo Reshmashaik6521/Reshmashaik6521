@@ -1,0 +1,3 @@
+- 👋 Hi, I’m ReshmaShaik
+- 👀 I’m interested in Learning new things and exploring the technologies
+- 🌱 I’m currently learning Power BI
